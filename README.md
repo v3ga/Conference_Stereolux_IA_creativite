@@ -20,7 +20,7 @@ Ce paragraphe présente les liens et références dont je me suis servi pour pr�
 
 ### Podcasts
 * France Culture
-  * [L'intelligence peut-elle devenir artificielle ?](https://www.franceculture.fr/emissions/la-conversation-scientifique/lintelligence-peut-elle-devenir-artificielle) / Entretien avec Yann Le Cun.
+  * [L'intelligence peut-elle devenir artificielle ?](https://www.franceculture.fr/emissions/la-conversation-scientifique/lintelligence-peut-elle-devenir-artificielle) / Entretien avec Yann LeCun.
   * [Les neurosciences émotionnelles d'Antonio Damasio](https://www.franceculture.fr/emissions/la-grande-table-2eme-partie/la-grande-table-2eme-partie-mercredi-22-novembre-2017)
 * France Inter
   * [Le Blob par Audrey Dussutour](https://www.franceinter.fr/emissions/une-journee-particuliere/une-journee-particuliere-01-octobre-2017), « organisme unicellulaire qui n'a pas de cerveau *mais qui apprend* » — fascinant ! 
@@ -53,9 +53,9 @@ et Révolution technologique](http://hypermedia.univ-paris8.fr/Verroust/cours/TA
   * [Chapter 2, Gradient descent, how neural networks learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
   * [Chapter 3, What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
 * Stanislas Dehane
-  * [Psychologie cognitive expérimentale](http://www.college-de-france.fr/site/stanislas-dehaene/_course.htm), cours au Collège de France
+  * [Psychologie cognitive expérimentale](http://www.college-de-france.fr/site/stanislas-dehaene/_course.htm), cours au Collège de France.
 * Yann Lecun
-  * [L'apprentissage profond](https://www.college-de-france.fr/site/yann-lecun/course-2015-2016.htm)
+  * [L'apprentissage profond](https://www.college-de-france.fr/site/yann-lecun/course-2015-2016.htm), cours au Collège de France.
   
 ### Conférences, évènements
 * [Intelligence et bêtise artificielle](https://www.ensadlab.fr/fr/francais-conference-intelligence-et-betise-artificielle-au-centre-pompidou/), Centre Pompidou, 17/11/2017 avec [Warren Sack](https://people.ucsc.edu/~wsack/)
