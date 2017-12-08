@@ -4,7 +4,7 @@ Keynotes et tables rondes à [Stereolux](https://www.stereolux.org/) le 13 déce
 https://www.stereolux.org/agenda/matinee-keynotes-et-tables-rondes-batiment-b
 
 ## Présentation
-Andrew Ng, professeur à Standford et spécialiste de l’IA, parle de l’intelligence artificielle comme étant la *« nouvelle électricité »*. Comment ces algorithmes qui façonnent les industries de demain peuvent-ils être transposés aux champs de la création artistique et quelles en sont les limites ? Julien Gachadoat apportera quelques éléments de réponses en se basant sur ses propres recherches.
+[Andrew Ng](http://www.andrewng.org/), professeur à Standford et spécialiste de l’IA, parle de l’intelligence artificielle comme étant la *« nouvelle électricité »*. Comment ces algorithmes qui façonnent les industries de demain peuvent-ils être transposés aux champs de la création artistique et quelles en sont les limites ? Julien Gachadoat apportera quelques éléments de réponses en se basant sur ses propres recherches.
 
 ## Références
 Ce paragraphe présente les liens et références dont je me suis servi pour préparer cette keynote et la table ronde. Certaines références ne sont pas toutes directement reliées à l'intelligence artificielle (enjeux et techniques) mais aussi à la biologie, aux neurosciences et à l'histoire de l'informatique.
