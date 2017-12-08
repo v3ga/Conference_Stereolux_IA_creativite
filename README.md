@@ -14,6 +14,7 @@ Ce paragraphe présente les liens et références dont je me suis servi pour pr�
 * Kyle McDonald
   * [A return to machine learning](https://www.youtube.com/watch?v=POrPIABj2MI)
 * Stanislas Dehane
+  * [Les grands principes de l'apprentissage](https://www.youtube.com/watch?v=4NYAuRjvMNQ)
   * [Les neurones de la lecture](https://www.youtube.com/watch?v=ptABRBcdI0c)
   * [Le code de la conscience](https://www.youtube.com/watch?v=mSqX_dwLA40)
 
