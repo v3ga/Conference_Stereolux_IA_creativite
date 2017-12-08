@@ -9,6 +9,9 @@ Andrew Ng, professeur à Standford et spécialiste de l’IA, parle de l’intel
 ## Références
 Ce paragraphe présente les liens et références dont je me suis servi pour préparer cette keynote et la table ronde. Certaines références ne sont pas toutes directement reliées à l'intelligence artificielle (enjeux et techniques) mais aussi à la biologie, aux neurosciences et à l'histoire de l'informatique.
 
+### Sites / artistes
+* [nips4creativity](http://nips4creativity.com/)
+
 ### Vidéos
 * [Do machines make art ?](https://www.youtube.com/watch?v=FqrHmKo-cm4)
 * Kyle McDonald
