@@ -1,5 +1,5 @@
 # Intelligence artificielle et créativité
-Keynotes et tables rondes à [Stereolux](https://www.stereolux.org/) le 13 décembre 2017 dans le cadre d'une journée thématique «créativité et émotions à l'heure de l'intelligence artificielle».
+Keynotes et tables rondes à [Stereolux](https://www.stereolux.org/) le 13 décembre 2017 dans le cadre d'une journée thématique « créativité et émotions à l'heure de l'intelligence artificielle ».
 
 https://www.stereolux.org/agenda/matinee-keynotes-et-tables-rondes-batiment-b
 
