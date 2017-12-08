@@ -54,6 +54,8 @@ et Révolution technologique](http://hypermedia.univ-paris8.fr/Verroust/cours/TA
   * [Chapter 3, What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
 * Stanislas Dehane
   * [Psychologie cognitive expérimentale](http://www.college-de-france.fr/site/stanislas-dehaene/_course.htm), cours au Collège de France
+* Yann Lecun
+  * [L'apprentissage profond](https://www.college-de-france.fr/site/yann-lecun/course-2015-2016.htm)
   
 ### Conférences, évènements
 * [Intelligence et bêtise artificielle](https://www.ensadlab.fr/fr/francais-conference-intelligence-et-betise-artificielle-au-centre-pompidou/), Centre Pompidou, 17/11/2017 avec [Warren Sack](https://people.ucsc.edu/~wsack/)
