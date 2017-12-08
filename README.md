@@ -10,7 +10,7 @@ Andrew Ng, professeur à Standford et spécialiste de l’IA, parle de l’intel
 Ce paragraphe présente les liens et références dont je me suis servi pour préparer cette keynote et la table ronde. Certaines références ne sont pas toutes directement reliées à l'intelligence artificielle (enjeux et techniques) mais aussi à la biologie, aux neurosciences et à l'histoire de l'informatique.
 
 ### Sites / artistes
-* [nips4creativity](http://nips4creativity.com/)
+* [nips4creativity](http://nips4creativity.com/) — collection of art, music and design using machine learning
 
 ### Vidéos
 * [Do machines make art ?](https://www.youtube.com/watch?v=FqrHmKo-cm4)
@@ -61,6 +61,7 @@ et Révolution technologique](http://hypermedia.univ-paris8.fr/Verroust/cours/TA
   * [L'apprentissage profond](https://www.college-de-france.fr/site/yann-lecun/course-2015-2016.htm), cours au Collège de France.
   
 ### Conférences, évènements
+* [NIPS 2017](https://nips.cc/)
 * [Intelligence et bêtise artificielle](https://www.ensadlab.fr/fr/francais-conference-intelligence-et-betise-artificielle-au-centre-pompidou/), Centre Pompidou, 17/11/2017 avec [Warren Sack](https://people.ucsc.edu/~wsack/)
 
 ### Le coin geek
