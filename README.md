@@ -70,7 +70,7 @@ et Révolution technologique](http://hypermedia.univ-paris8.fr/Verroust/cours/TA
 * Stanislas Dehane
   * [Psychologie cognitive expérimentale](http://www.college-de-france.fr/site/stanislas-dehaene/_course.htm), cours au Collège de France.
 * Yann Lecun
-  * [L'apprentissage profond](https://www.college-de-france.fr/site/yann-lecun/course-2015-2016.htm), cours au Collège de France.
+  * [L'apprentissage profond](https://www.college-de-france.fr/site/yann-lecun/course-2015-2016.htm), cours au Collège de France et [leçon inaugurale](https://www.college-de-france.fr/site/yann-lecun/inaugural-lecture-2016-02-04-18h00.htm).
 * Jean-Gabriel Ganascia
   * [Mooc Intelligence artificielle](http://moocdigitalmedia.paris/cours/intelligence-artificielle/) 
   
