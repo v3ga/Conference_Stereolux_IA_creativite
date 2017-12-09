@@ -53,6 +53,8 @@ Ce paragraphe présente les liens et références dont je me suis servi pour pr�
   * [Le cerveau est une machine comme une autre](http://www.lemonde.fr/livres/article/2017/11/18/le-cerveau-est-une-machine-comme-une-autre_5216868_3260.html)
 * Olivier Ertzscheid
   * [Google, Andromaque et l'algorithme](http://affordance.typepad.com//mon_weblog/2017/11/google-andromaque-algorithme.html)
+* Mark Riedl
+  * [Introduction to neural nets without the brain metaphor](https://medium.com/@mark_riedl/introduction-to-neural-nets-without-the-brain-metaphor-874e7950bca0)
 
 ### Cours en ligne
 * Gérard Verroust
