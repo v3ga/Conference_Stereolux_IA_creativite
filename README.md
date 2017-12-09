@@ -16,8 +16,9 @@ Avec :
 Ce paragraphe présente les liens et références dont je me suis servi pour préparer cette keynote et la table ronde. Certaines références ne sont pas toutes directement reliées à l'intelligence artificielle (enjeux et techniques) mais aussi à la biologie, aux neurosciences et à l'histoire de l'informatique.
 
 ### Sites / artistes
-* [nips4creativity](http://nips4creativity.com/) — collection of art, music and design using machine learning
+* [nips4creativity](http://nips4creativity.com/) — collection of art, music and design using machine learning.
 * [nips2017creativity.github.io](https://nips2017creativity.github.io/)
+* [Luba Elliot](http://elluba.com) — curator, artist and researcher specialising in artificial intelligence in the creative industries.
 
 ### Vidéos
 * [Do machines make art ?](https://www.youtube.com/watch?v=FqrHmKo-cm4)
