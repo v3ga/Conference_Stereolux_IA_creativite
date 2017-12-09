@@ -3,6 +3,12 @@ Keynotes et tables rondes à [Stereolux](https://www.stereolux.org/) le 13 déce
 
 https://www.stereolux.org/agenda/matinee-keynotes-et-tables-rondes-batiment-b
 
+Avec : 
+* Cyrille Chaudoit, directeur du développement / [TheLINKS](http://thelinks.fr).
+* Lionel Oisel, Principal Scientist, Technicolor.
+* Luis Galarraga del Prado, chercheur à l'INRIA.
+* [Elisa Braün](https://twitter.com/elisabraun?lang=fr), journaliste.
+
 ## Présentation
 [Andrew Ng](http://www.andrewng.org/), professeur à Standford et spécialiste de l’IA, parle de l’intelligence artificielle comme étant la *« nouvelle électricité »*. Comment ces algorithmes qui façonnent les industries de demain peuvent-ils être transposés aux champs de la création artistique et quelles en sont les limites ? Julien Gachadoat apportera quelques éléments de réponses en se basant sur ses propres recherches.
 
@@ -11,6 +17,7 @@ Ce paragraphe présente les liens et références dont je me suis servi pour pr�
 
 ### Sites / artistes
 * [nips4creativity](http://nips4creativity.com/) — collection of art, music and design using machine learning
+* [nips2017creativity.github.io](https://nips2017creativity.github.io/)
 
 ### Vidéos
 * [Do machines make art ?](https://www.youtube.com/watch?v=FqrHmKo-cm4)
