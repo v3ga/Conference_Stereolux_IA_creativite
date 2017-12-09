@@ -19,6 +19,7 @@ Ce paragraphe présente les liens et références dont je me suis servi pour pr�
 * [nips4creativity](http://nips4creativity.com/) — collection of art, music and design using machine learning.
 * [nips2017creativity.github.io](https://nips2017creativity.github.io/)
 * [Luba Elliot](http://elluba.com) — curator, artist and researcher specialising in artificial intelligence in the creative industries.
+  * [The creative AI newsletter](http://mailchi.mp/e42fc9825362/the-creative-ai-newsletter-195661)
 
 ### Vidéos
 * [Do machines make art ?](https://www.youtube.com/watch?v=FqrHmKo-cm4)
