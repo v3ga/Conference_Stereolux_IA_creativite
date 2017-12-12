@@ -12,6 +12,40 @@ Avec :
 ## Présentation
 [Andrew Ng](http://www.andrewng.org/), professeur à Standford et spécialiste de l’IA, parle de l’intelligence artificielle comme étant la *« nouvelle électricité »*. Comment ces algorithmes qui façonnent les industries de demain peuvent-ils être transposés aux champs de la création artistique et quelles en sont les limites ? Julien Gachadoat apportera quelques éléments de réponses en se basant sur ses propres recherches.
 
+### Contexte de l’IA aujourd’hui : apprentissage supervisé
+<img src="https://imgs.xkcd.com/comics/self_driving.png" width="400"/>
+J’ai sélectionné cette première image car elle montre de façon humoristique (et critique) sur quoi repose aujourd’hui les algorithmes de deep learning. Ces algorithmes utilisent une masse importante de données «étiquetées» par des humains, dans un mode d’apprentissage supervisé. Les algorithmes apprennent aujourd’hui à reconnaitre des éléments qu’on a bien voulu leur montrer et nous participons à cet apprentissage parfois à notre insu.
+
+### Ce que ne peut pas faire l’IA aujourd’hui
+<img src="http://www.aaronkoblin.com/work/thesheepmarket/grid.jpg" width="100%" />
+Ce mode d’apprentissage m’a rappelé un travail d'Aaron Koblin, « The Sheep Market » qui a astucieusement utilisé les mechanical turks d'Amazon, plateforme qui permet de demander à des travailleurs humains de réaliser des tâches répétitives qui ne sont pas facilement réalisables par une machine. Son utilisation a été détournée pour créer cette composition, et montrer les diversités d’interprétation à partir d’une consigne (« input ») simple : dessiner un mouton.
+
+Ce travail montre à mon sens la créativité de l’être humain et ce que ne peuvent pas vraiment produire ces algorithmes pour l’instant. C’est une instruction simple qui fait appel à l’imagination, à la mémoire, à la culture, des attributs dont ne sont pas dotés les algorithmes d’intelligence artificielle aujourd’hui même si les recherches se tournent dans ce sens ( unsupervised learning notamment )
+
+*Ce projet fait écho aussi aux « manufactures de logarithmes », aux «computers» (calculateurs humains) de l’après révolution française, qui ont précédé la création des machines de Babagge.*
+
+### Créativité et réseaux de neurones
+<img src="https://world4jason.gitbooks.io/research-log/content/deepLearning/CNN/img/lenet.png" width="100%" />
+Les algorithmes de l'intelligence articielle et de deep learning en particulier reposent sur une architecture de réseaux de neurones à plusieurs couches.
+
+Je vous montre ici un réseau de neurones « historique », le réseau LeNet-5 qui a été construit pour reconnaitre des chiffres manuscrits par [Yann LeCun](http://yann.lecun.com/). Mes recherches m’ont conduit à penser qu’il fallait une bonne dose d’intuition et de créativité pour composer les différentes couches d’un tel réseau.
+
+Une intelligence artificielle pourra-t-telle créer ses propres réseaux de neurone ou peut-être mieux modifier sa propre structure pour être plus performante sur une tâche donnée ? Un petit peu à la manière de notre cerveau qui recycle des neurones *[cas de l’apprentissage de la lecture chez l’enfant par exemple]* Une architecture comme celle-ci pourra-t-elle avoir conscience d’elle-même en quelque sorte ?
+
+### Génération d’images
+<img src="https://images.vice.com/vice/images/articles/meta/2015/07/29/no-they-dream-of-puppy-slugs-0000703-v22n8-1438186190.jpg?crop=1xw:0.42674278846153846xh;center,center&resize=0" width="400px" />
+Les réseaux de neurones utilisés pour la classification peuvent être aussi détournés (en quelque sorte) pour produire des images générées. C'est le cas avec [Deep Dream](https://github.com/google/deepdream) de Google qui a été entraîné ici à reconnaître des chiens et qui amplifie ensuite tout signal dans les couches intermédiaires où il croit en reconnaître dans une photo quelconque *(cf slide précédent)*
+
+La majorité des productions artistiques détourne ce type de réseaux de neurones, et la créativité réside dans le domptage de ces algorithmes ou le choix des bons «ingrédients» (*training sets*, *hyperparamètres*).
+
+Il existe d'autres types de réseaux de neurone détournés ainsi, notamment avec la technique de «neural style transfer» qui consiste à appliquer à une photo quelconque le style d'une œuvre d'art.
+
+Il sera possible aussi d'utiliser l'intelligence artificielle « plus discrètement » dans le sens où une œuvre interactive pourrait capter les réactions de ses spectacteurs pour moduler sa propre composition par exemple.
+
+### Créativité et apprentissage du vivant
+<img src="https://assets.letemps.ch/sites/default/files/media/2017/07/04/file6v6691ctw6h1dzhb593z.jpg" width="400px" />
+Je voulais terminer cette présentation avec cette image, celle d’un blob. C’est un organisme unicellulaire qui peut apprendre à « contourner » des obstacles pour aller chercher de la nourriture et se développer *[décrire brièvement l’expérience avec le pont de sel]* Et tout cela sans neurones ! Mais encore mieux, il peut fusionner avec d’autres blobs pour partager de l’information.
+
 ## Références
 Ce paragraphe présente les liens et références dont je me suis servi pour préparer cette keynote et la table ronde. Certaines références ne sont pas toutes directement reliées à l'intelligence artificielle (enjeux et techniques) mais aussi à la biologie, aux neurosciences et à l'histoire de l'informatique.
 
@@ -52,6 +86,10 @@ Ce paragraphe présente les liens et références dont je me suis servi pour pr�
   * [L'imagination (de l') artificielle](http://chatonsky.net/imaginaton-artificielle/)
 * François Chollet
   * [The impossibility of intelligence explosion](https://medium.com/@francois.chollet/the-impossibility-of-intelligence-explosion-5be4a9eda6ec)
+* Shubhang Desai
+  * [Neural Artistic Style Transfer: A Comprehensive Look](https://medium.com/artists-and-machine-intelligence/neural-artistic-style-transfer-a-comprehensive-look-f54d8649c199)
+* Harish Narayanan
+  * [Convolutional neural networks for artistic style transfer](https://harishnarayanan.org/writing/artistic-style-transfer/)
 * Céline Henne (Le Monde)
   * [Le cerveau est une machine comme une autre](http://www.lemonde.fr/livres/article/2017/11/18/le-cerveau-est-une-machine-comme-une-autre_5216868_3260.html)
 * Olivier Ertzscheid
