@@ -32,6 +32,11 @@ Je vous montre ici un réseau de neurones « historique », le réseau LeNet-5 q
 
 Une intelligence artificielle pourra-t-telle créer ses propres réseaux de neurone ou peut-être mieux modifier sa propre structure pour être plus performante sur une tâche donnée ? Un petit peu à la manière de notre cerveau qui recycle des neurones *[cas de l’apprentissage de la lecture chez l’enfant par exemple]* Une architecture comme celle-ci pourra-t-elle avoir conscience d’elle-même en quelque sorte ?
 
+<img src="http://www.v3ga.net/_temp/ConfIA/Images/dl.demo2x800.jpg" width="400px" />
+
+*Image tirée de l'article « Visualizing and Understanding
+Convolutional Networks » de Matthew D. Zeiler and Rob Fergus, NYU*
+
 ### Génération d’images
 <img src="https://images.vice.com/vice/images/articles/meta/2015/07/29/no-they-dream-of-puppy-slugs-0000703-v22n8-1438186190.jpg?crop=1xw:0.42674278846153846xh;center,center&resize=0" width="400px" />
 Les réseaux de neurones utilisés pour la classification peuvent être aussi détournés (en quelque sorte) pour produire des images générées. C'est le cas avec [Deep Dream](https://github.com/google/deepdream) de Google qui a été entraîné ici à reconnaître des chiens et qui amplifie ensuite tout signal dans les couches intermédiaires où il croit en reconnaître dans une photo quelconque *(cf slide précédent)*
