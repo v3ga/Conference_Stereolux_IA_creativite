@@ -44,8 +44,8 @@ Convolutional Networks » de Matthew D. Zeiler and Rob Fergus, NYU*
 Les réseaux de neurones utilisés pour la classification peuvent être aussi détournés (en quelque sorte) pour produire des images générées. C'est le cas avec [Deep Dream](https://github.com/google/deepdream) de Google qui a été entraîné ici à reconnaître des chiens et qui amplifie ensuite tout signal dans les couches intermédiaires où il croit en reconnaître dans une photo quelconque *(cf slide précédent)*
 
 La majorité des productions artistiques détourne ce type de réseaux de neurones, et la créativité réside dans le domptage de ces algorithmes ou le choix des bons «ingrédients» (*training sets*, *hyperparamètres*).
-
 Il existe d'autres types de réseaux de neurone détournés ainsi, notamment avec la technique de «neural style transfer» qui consiste à appliquer à une photo quelconque le style d'une œuvre d'art.
+Il me semble qu'il existe un potentiel créatif certain en laissant travailler la machine à réaliser des représentations dans des espaces mathématiques difficilement imaginables pour nous laisser ensuite combiner ou détourner ces entités (pas que dans le domaine de l'image).
 
 Il sera possible aussi d'utiliser l'intelligence artificielle « plus discrètement » dans le sens où une œuvre interactive pourrait capter les réactions de ses spectacteurs pour moduler sa propre composition par exemple.
 
@@ -65,13 +65,15 @@ Ce paragraphe présente les liens et références dont je me suis servi pour pr�
 
 ### Vidéos
 * [Do machines make art ?](https://www.youtube.com/watch?v=FqrHmKo-cm4)
+* Lynn Cherry
+  * Conference at KIKK Festival 2017 ()
 * Kyle McDonald
   * [A return to machine learning](https://www.youtube.com/watch?v=POrPIABj2MI)
 * Stanislas Dehane
   * [Les grands principes de l'apprentissage](https://www.youtube.com/watch?v=4NYAuRjvMNQ)
   * [Les neurones de la lecture](https://www.youtube.com/watch?v=ptABRBcdI0c)
   * [Le code de la conscience](https://www.youtube.com/watch?v=mSqX_dwLA40)
-
+ 
 ### Podcasts
 * France Culture
   * [L'intelligence peut-elle devenir artificielle ?](https://www.franceculture.fr/emissions/la-conversation-scientifique/lintelligence-peut-elle-devenir-artificielle) / Entretien avec Yann LeCun.
