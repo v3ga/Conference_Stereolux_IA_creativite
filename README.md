@@ -81,6 +81,8 @@ et Révolution technologique](http://hypermedia.univ-paris8.fr/Verroust/cours/TA
 * [Intelligence et bêtise artificielle](https://www.ensadlab.fr/fr/francais-conference-intelligence-et-betise-artificielle-au-centre-pompidou/), Centre Pompidou, 17/11/2017 avec [Warren Sack](https://people.ucsc.edu/~wsack/)
 
 ### Le coin geek
+* Gene Kogan
+  * [Machine Learning for artists](http://ml4a.github.io/) — guides / demos / classes / code
 * Daniel Shiffman
   * [Coding train / Machine learning](https://github.com/CodingTrain/Machine-Learning), beaucoup de références, excellente ressource.
   * [Neural-Network-p5](https://github.com/shiffman/Neural-Network-p5)
