@@ -51,7 +51,7 @@ Il sera possible aussi d'utiliser l'intelligence artificielle « plus discrètem
 
 ### Créativité et apprentissage du vivant
 <img src="https://assets.letemps.ch/sites/default/files/media/2017/07/04/file6v6691ctw6h1dzhb593z.jpg" width="400px" />
-Je voulais terminer cette présentation avec cette image, celle d’un blob. C’est un organisme unicellulaire qui peut apprendre à « contourner » des obstacles pour aller chercher de la nourriture et se développer *(décrire brièvement l’expérience avec le pont de sel)* Et tout cela sans neurones ! Mais encore mieux, il peut fusionner avec d’autres blobs pour partager de l’information.
+Je voulais terminer cette présentation avec cette image, celle d’un blob. C’est un organisme unicellulaire qui peut apprendre à « contourner » des obstacles pour aller chercher de la nourriture et se développer (décrire brièvement l’expérience avec le pont de sel) Et tout cela sans neurones ! Mais encore mieux, il peut fusionner avec d’autres blobs pour partager de l’information.
 
 ## Références
 Ce paragraphe présente les liens et références dont je me suis servi pour préparer cette keynote et la table ronde. Certaines références ne sont pas toutes directement reliées à l'intelligence artificielle (enjeux et techniques) mais aussi à la biologie, aux neurosciences et à l'histoire de l'informatique.
