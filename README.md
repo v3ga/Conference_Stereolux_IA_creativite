@@ -36,7 +36,7 @@ Ce paragraphe présente les liens et références dont je me suis servi pour pr�
   * [L'intelligence peut-elle devenir artificielle ?](https://www.franceculture.fr/emissions/la-conversation-scientifique/lintelligence-peut-elle-devenir-artificielle) / Entretien avec Yann LeCun.
   * [Les neurosciences émotionnelles d'Antonio Damasio](https://www.franceculture.fr/emissions/la-grande-table-2eme-partie/la-grande-table-2eme-partie-mercredi-22-novembre-2017)
 * France Inter
-  * [Le Blob par Audrey Dussutour](https://www.franceinter.fr/emissions/une-journee-particuliere/une-journee-particuliere-01-octobre-2017), « organisme unicellulaire qui n'a pas de cerveau *mais qui apprend* » — fascinant ! 
+  * [Le Blob par Audrey Dussutour](https://www.franceinter.fr/emissions/une-journee-particuliere/une-journee-particuliere-01-octobre-2017), « organisme unicellulaire qui n'a pas de cerveau *[mais qui apprend](http://www2.cnrs.fr/presse/communique/4837.htm)* » — fascinant !
 
 ### Articles
 * Olivier Ezratty
