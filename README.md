@@ -16,6 +16,8 @@ Avec :
 <img src="https://imgs.xkcd.com/comics/self_driving.png" width="400"/>
 J’ai sélectionné cette première image car elle montre de façon humoristique (et critique) sur quoi repose aujourd’hui les algorithmes de deep learning. Ces algorithmes utilisent une masse importante de données «étiquetées» par des humains, dans un mode d’apprentissage supervisé. Les algorithmes apprennent aujourd’hui à reconnaitre des éléments qu’on a bien voulu leur montrer et nous participons à cet apprentissage parfois à notre insu.
 
+<img src="http://www.v3ga.net/_temp/ConfIA/Images/02_AI_Google_ReCaptcha.png" width="200px" />
+
 ### Ce que ne peut pas faire l’IA aujourd’hui
 <img src="http://www.aaronkoblin.com/work/thesheepmarket/grid.jpg" width="100%" />
 Ce mode d’apprentissage m’a rappelé un travail d'Aaron Koblin, « The Sheep Market » qui a astucieusement utilisé les mechanical turks d'Amazon, plateforme qui permet de demander à des travailleurs humains de réaliser des tâches répétitives qui ne sont pas facilement réalisables par une machine. Son utilisation a été détournée pour créer cette composition, et montrer les diversités d’interprétation à partir d’une consigne (« input ») simple : dessiner un mouton.
@@ -49,7 +51,7 @@ Il sera possible aussi d'utiliser l'intelligence artificielle « plus discrètem
 
 ### Créativité et apprentissage du vivant
 <img src="https://assets.letemps.ch/sites/default/files/media/2017/07/04/file6v6691ctw6h1dzhb593z.jpg" width="400px" />
-Je voulais terminer cette présentation avec cette image, celle d’un blob. C’est un organisme unicellulaire qui peut apprendre à « contourner » des obstacles pour aller chercher de la nourriture et se développer *[décrire brièvement l’expérience avec le pont de sel]* Et tout cela sans neurones ! Mais encore mieux, il peut fusionner avec d’autres blobs pour partager de l’information.
+Je voulais terminer cette présentation avec cette image, celle d’un blob. C’est un organisme unicellulaire qui peut apprendre à « contourner » des obstacles pour aller chercher de la nourriture et se développer *(décrire brièvement l’expérience avec le pont de sel)* Et tout cela sans neurones ! Mais encore mieux, il peut fusionner avec d’autres blobs pour partager de l’information.
 
 ## Références
 Ce paragraphe présente les liens et références dont je me suis servi pour préparer cette keynote et la table ronde. Certaines références ne sont pas toutes directement reliées à l'intelligence artificielle (enjeux et techniques) mais aussi à la biologie, aux neurosciences et à l'histoire de l'informatique.
