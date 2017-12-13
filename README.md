@@ -41,7 +41,7 @@ Convolutional Networks » de Matthew D. Zeiler and Rob Fergus, NYU*
 
 ### Génération d’images
 <img src="https://images.vice.com/vice/images/articles/meta/2015/07/29/no-they-dream-of-puppy-slugs-0000703-v22n8-1438186190.jpg?crop=1xw:0.42674278846153846xh;center,center&resize=0" width="400px" />
-Les réseaux de neurones utilisés pour la classification peuvent être aussi détournés (en quelque sorte) pour produire des images générées. C'est le cas avec [Deep Dream](https://github.com/google/deepdream) de Google qui a été entraîné ici à reconnaître des chiens et qui amplifie ensuite tout signal dans les couches intermédiaires où il croit en reconnaître dans une photo quelconque *(cf slide précédent)*
+Les réseaux de neurones utilisés pour la classification peuvent être aussi détournés (en quelque sorte) pour produire des images générées. C'est le cas avec Deep Dream de Google qui a été entraîné ici à reconnaître des chiens et qui amplifie ensuite tout signal dans les couches intermédiaires où il croit en reconnaître dans une photo quelconque.
 
 La majorité des productions artistiques détourne ce type de réseaux de neurones, et la créativité réside dans le domptage de ces algorithmes ou le choix des bons «ingrédients» (*training sets*, *hyperparamètres*).
 Il existe d'autres types de réseaux de neurone détournés ainsi, notamment avec la technique de «neural style transfer» qui consiste à appliquer à une photo quelconque le style d'une œuvre d'art.
@@ -66,7 +66,7 @@ Ce paragraphe présente les liens et références dont je me suis servi pour pr�
 ### Vidéos
 * [Do machines make art ?](https://www.youtube.com/watch?v=FqrHmKo-cm4)
 * Lynn Cherry
-  * Conference at KIKK Festival 2017 ()
+  * [Conference at KIKK Festival 2017](https://vimeo.com/242926369)
 * Kyle McDonald
   * [A return to machine learning](https://www.youtube.com/watch?v=POrPIABj2MI)
 * Stanislas Dehane
