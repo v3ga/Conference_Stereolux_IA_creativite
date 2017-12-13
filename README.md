@@ -105,6 +105,8 @@ Ce paragraphe présente les liens et références dont je me suis servi pour pr�
   * [Google, Andromaque et l'algorithme](http://affordance.typepad.com//mon_weblog/2017/11/google-andromaque-algorithme.html)
 * Mark Riedl
   * [Introduction to neural nets without the brain metaphor](https://medium.com/@mark_riedl/introduction-to-neural-nets-without-the-brain-metaphor-874e7950bca0)
+* Thomas McMullan
+  * [The Work of Art in the Age of Algorithmic Reproduction](https://medium.com/@thomas_mac/the-work-of-art-in-the-age-of-algorithmic-reproduction-bd3bd9b4e236)
 
 ### Cours en ligne
 * Gérard Verroust
