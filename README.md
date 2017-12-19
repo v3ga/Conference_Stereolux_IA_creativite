@@ -109,6 +109,8 @@ Ce paragraphe présente les liens et références dont je me suis servi pour pr�
   * [The Work of Art in the Age of Algorithmic Reproduction](https://medium.com/@thomas_mac/the-work-of-art-in-the-age-of-algorithmic-reproduction-bd3bd9b4e236)
 
 ### Cours en ligne
+* Pierre Lévy
+  * [La pyramide algorithmique](http://www.sens-public.org/article1275.html?lang=en)
 * Gérard Verroust
   * [Histoire, épistémologie de l'informatique 
 et Révolution technologique](http://hypermedia.univ-paris8.fr/Verroust/cours/TABLEFR.HTM)
