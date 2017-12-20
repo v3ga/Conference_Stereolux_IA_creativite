@@ -82,6 +82,7 @@ Ce paragraphe présente les liens et références dont je me suis servi pour pr�
   * [Le Blob par Audrey Dussutour](https://www.franceinter.fr/emissions/une-journee-particuliere/une-journee-particuliere-01-octobre-2017), « organisme unicellulaire qui n'a pas de cerveau *[mais qui apprend](http://www2.cnrs.fr/presse/communique/4837.htm)* » — fascinant !
 
 ### Articles
+* [Artist + AI = Creativity²: Humans and machines will create prize-winning art](https://www.nesta.org.uk/2018-predictions/humans-and-machines-will-win-prize-winning-art)
 * Slate
   * [These Stunning A.I. Tools Are About to Change the Art World](http://www.slate.com/articles/technology/future_tense/2017/12/a_i_neural_photo_and_image_style_transfer_will_change_the_art_world.html?utm_content=buffer924bd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * Olivier Ezratty
