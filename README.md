@@ -9,6 +9,10 @@ Avec :
 * Luis Galarraga del Prado, chercheur à l'INRIA.
 * [Elisa Braün](https://twitter.com/elisabraun?lang=fr), journaliste.
 
+#### Compte rendu
+http://www.lemag-numerique.com/2017/12/lintelligence-artificielle-etre-creative-10592
+
+
 ## Présentation
 [Andrew Ng](http://www.andrewng.org/), professeur à Standford et spécialiste de l’IA, parle de l’intelligence artificielle comme étant la *« nouvelle électricité »*. Comment ces algorithmes qui façonnent les industries de demain peuvent-ils être transposés aux champs de la création artistique et quelles en sont les limites ? Julien Gachadoat apportera quelques éléments de réponses en se basant sur ses propres recherches.
 
