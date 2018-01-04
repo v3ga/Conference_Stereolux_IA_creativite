@@ -115,6 +115,11 @@ Ce paragraphe présente les liens et références dont je me suis servi pour pr�
   * [The Work of Art in the Age of Algorithmic Reproduction](https://medium.com/@thomas_mac/the-work-of-art-in-the-age-of-algorithmic-reproduction-bd3bd9b4e236)
  * [From Perceptron to Deep Neural Nets](https://becominghuman.ai/from-perceptron-to-deep-neural-nets-504b8ff616e)
  
+### Articles plus généraux
+* Le Monde 
+  * [Les cinq familles de l'intelligence articielle](http://abonnes.lemonde.fr/pixels/article/2017/12/31/les-5-familles-de-l-intelligence-artificielle_5236310_4408996.html)
+  * [Comment dépasser les limites du deep learning ?](http://internetactu.blog.lemonde.fr/2017/11/19/comment-depasser-les-limites-du-deep-learning/)
+
 ### Cours en ligne
 * Pierre Lévy
   * [La pyramide algorithmique](http://www.sens-public.org/article1275.html?lang=en)
