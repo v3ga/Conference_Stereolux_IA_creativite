@@ -82,6 +82,7 @@ Ce paragraphe présente les liens et références dont je me suis servi pour pr�
 * France Culture
   * [L'intelligence peut-elle devenir artificielle ?](https://www.franceculture.fr/emissions/la-conversation-scientifique/lintelligence-peut-elle-devenir-artificielle) / Entretien avec Yann LeCun.
   * [Les neurosciences émotionnelles d'Antonio Damasio](https://www.franceculture.fr/emissions/la-grande-table-2eme-partie/la-grande-table-2eme-partie-mercredi-22-novembre-2017)
+  * [Jean-Gabriel Ganascia, l'IA et moi](https://www.franceculture.fr/emissions/la-methode-scientifique/jean-gabriel-ganascia-lia-et-moi)
 * France Inter
   * [Le Blob par Audrey Dussutour](https://www.franceinter.fr/emissions/une-journee-particuliere/une-journee-particuliere-01-octobre-2017), « organisme unicellulaire qui n'a pas de cerveau *[mais qui apprend](http://www2.cnrs.fr/presse/communique/4837.htm)* » — fascinant !
 
@@ -112,7 +113,8 @@ Ce paragraphe présente les liens et références dont je me suis servi pour pr�
   * [Introduction to neural nets without the brain metaphor](https://medium.com/@mark_riedl/introduction-to-neural-nets-without-the-brain-metaphor-874e7950bca0)
 * Thomas McMullan
   * [The Work of Art in the Age of Algorithmic Reproduction](https://medium.com/@thomas_mac/the-work-of-art-in-the-age-of-algorithmic-reproduction-bd3bd9b4e236)
-
+ * [From Perceptron to Deep Neural Nets](https://becominghuman.ai/from-perceptron-to-deep-neural-nets-504b8ff616e)
+ 
 ### Cours en ligne
 * Pierre Lévy
   * [La pyramide algorithmique](http://www.sens-public.org/article1275.html?lang=en)
@@ -141,6 +143,7 @@ et Révolution technologique](http://hypermedia.univ-paris8.fr/Verroust/cours/TA
   * [Machine Learning for artists](http://ml4a.github.io/) — guides / demos / classes / code
 * Daniel Shiffman
   * [Coding train / Machine learning](https://github.com/CodingTrain/Machine-Learning), beaucoup de références, excellente ressource.
+  * [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
   * [Neural-Network-p5](https://github.com/shiffman/Neural-Network-p5)
 * NVIDIA
   * [pix2pixHD : Synthesizing and manipulating 2048x1024 images with conditional GANs](https://github.com/NVIDIA/pix2pixHD)
