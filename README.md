@@ -153,3 +153,4 @@ et Révolution technologique](http://hypermedia.univ-paris8.fr/Verroust/cours/TA
 * NVIDIA
   * [pix2pixHD : Synthesizing and manipulating 2048x1024 images with conditional GANs](https://github.com/NVIDIA/pix2pixHD)
 * [YOLO : Real-time object detection](https://pjreddie.com/darknet/yolo/)
+* [30 Amazing Machine Learning Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
