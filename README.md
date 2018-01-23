@@ -138,7 +138,8 @@ et Révolution technologique](http://hypermedia.univ-paris8.fr/Verroust/cours/TA
   * [L'apprentissage profond](https://www.college-de-france.fr/site/yann-lecun/course-2015-2016.htm), cours au Collège de France et [leçon inaugurale](https://www.college-de-france.fr/site/yann-lecun/inaugural-lecture-2016-02-04-18h00.htm).
 * Jean-Gabriel Ganascia
   * [Mooc Intelligence artificielle](http://moocdigitalmedia.paris/cours/intelligence-artificielle/) 
-  
+  * [Kaggle / Machine learning course](https://www.kaggle.com/learn/overview)
+
 ### Conférences, évènements
 * [NIPS 2017](https://nips.cc/)
 * [Intelligence et bêtise artificielle](https://www.ensadlab.fr/fr/francais-conference-intelligence-et-betise-artificielle-au-centre-pompidou/), Centre Pompidou, 17/11/2017 avec [Warren Sack](https://people.ucsc.edu/~wsack/)
