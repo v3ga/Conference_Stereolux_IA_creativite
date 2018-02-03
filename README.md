@@ -85,6 +85,7 @@ Ce paragraphe présente les liens et références dont je me suis servi pour pr�
   * [Jean-Gabriel Ganascia, l'IA et moi](https://www.franceculture.fr/emissions/la-methode-scientifique/jean-gabriel-ganascia-lia-et-moi)
 * France Inter
   * [Le Blob par Audrey Dussutour](https://www.franceinter.fr/emissions/une-journee-particuliere/une-journee-particuliere-01-octobre-2017), « organisme unicellulaire qui n'a pas de cerveau *[mais qui apprend](http://www2.cnrs.fr/presse/communique/4837.htm)* » — fascinant !
+* [Machine Learning for Artists with Gene Kogan](http://datastori.es/114-machine-learning-for-artists-with-gene-kogan/)
 
 ### Articles
 * [Artist + AI = Creativity²: Humans and machines will create prize-winning art](https://www.nesta.org.uk/2018-predictions/humans-and-machines-will-win-prize-winning-art)
