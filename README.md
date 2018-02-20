@@ -77,7 +77,8 @@ Ce paragraphe présente les liens et références dont je me suis servi pour pr�
   * [Les grands principes de l'apprentissage](https://www.youtube.com/watch?v=4NYAuRjvMNQ)
   * [Les neurones de la lecture](https://www.youtube.com/watch?v=ptABRBcdI0c)
   * [Le code de la conscience](https://www.youtube.com/watch?v=mSqX_dwLA40)
- 
+* [How does A.I. art stack up against human art?](https://news.vice.com/en_us/article/ywqw8j/how-does-ai-art-stack-up-against-human-art)
+
 ### Podcasts
 * France Culture
   * [L'intelligence peut-elle devenir artificielle ?](https://www.franceculture.fr/emissions/la-conversation-scientifique/lintelligence-peut-elle-devenir-artificielle) / Entretien avec Yann LeCun.
@@ -159,3 +160,4 @@ et Révolution technologique](http://hypermedia.univ-paris8.fr/Verroust/cours/TA
   * [pix2pixHD : Synthesizing and manipulating 2048x1024 images with conditional GANs](https://github.com/NVIDIA/pix2pixHD)
 * [YOLO : Real-time object detection](https://pjreddie.com/darknet/yolo/)
 * [30 Amazing Machine Learning Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
+* [Understanding LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
