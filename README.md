@@ -151,6 +151,7 @@ et Révolution technologique](http://hypermedia.univ-paris8.fr/Verroust/cours/TA
 * [Intelligence et bêtise artificielle](https://www.ensadlab.fr/fr/francais-conference-intelligence-et-betise-artificielle-au-centre-pompidou/), Centre Pompidou, 17/11/2017 avec [Warren Sack](https://people.ucsc.edu/~wsack/)
 
 ### Le coin geek
+* [MariFlow - Self-Driving Mario Kart w/Recurrent Neural Network](https://www.youtube.com/watch?v=Ipi40cb_RsI)
 * Gene Kogan
   * [Machine Learning for artists](http://ml4a.github.io/) — guides / demos / classes / code
 * Daniel Shiffman
