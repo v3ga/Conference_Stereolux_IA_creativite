@@ -69,6 +69,8 @@ Ce paragraphe présente les liens et références dont je me suis servi pour pr�
 * [Field, Alexa, what do you look like?](https://www.field.io/strategy/alexa-what-do-you-look-like/)
 
 ### Vidéos
+* Memo Akten
+  * [Learning to see, you are what you see](http://www.memo.tv/learning-to-see-you-are-what-you-see/)
 * [Do machines make art ?](https://www.youtube.com/watch?v=FqrHmKo-cm4)
 * Lynn Cherry
   * [Conference at KIKK Festival 2017](https://vimeo.com/242926369)
